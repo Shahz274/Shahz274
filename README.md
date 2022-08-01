@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Sk Shahzaman Nawaz
-- 👀 I’m interested in 'Programing, Machine Learning, Artifical intelligence, Robotics'.
-- 🌱 I’m currently Studying 'Bachelor of Computer Applications (BCA)'.
-- 💞️ I’m looking for a collaboration for some intresting projects.
-- 📫 You can reach me through my e-mail ID 'shahzaman598312@gmail.com'.
+- Hi, I’m Sk Shahzaman Nawaz
+- I’m interested in 'Programing, Web Development, Machine Learning and Artifical intelligence'.
+- I Passed out from Grace Ling Liang English School in 2021.
+- I’m currently Studying in 2nd year of 'Bachelor of Computer Applications (BCA)' from Techno India University.
+- I’m looking for a collaboration for some intresting projects.
+- You can reach me through my e-mail ID 'shahzaman598312@gmail.com'.
