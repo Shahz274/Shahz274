@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sk Shahzaman Nawaz
 - 👀 I’m interested in 'Programing, Machine Learning, Artifical intelligence, Robotics'.
-- 🌱 I’m currently learning 'Bachelor of Computer Applications (BCA)'.
+- 🌱 I’m currently Studying 'Bachelor of Computer Applications (BCA)'.
 - 💞️ I’m looking for a collaboration for some intresting projects.
-- 📫 You can reach me through my e-mail ID 'shahzaman213895@gmail.com'.
+- 📫 You can reach me through my e-mail ID 'shahzaman598312@gmail.com'.
